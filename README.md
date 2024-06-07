@@ -49,8 +49,37 @@ I'm a coding enthusiast and enjoy participating in coding competitions on platfo
 
 ## 🚀 Roadmap
 
-### Frontend Development
-![Frontend Roadmap](https://your-image-link-here.com/frontend-roadmap.png)
+### Frontend Development Roadmap
 
-### Backend Development
-![Backend Roadmap](https://your-image-link-here.com/backend-roadmap.png)
+graph TD;
+    A[HTML] --> B[CSS];
+    B --> C[JavaScript];
+    C --> D[Version Control/Git];
+    D --> E[Responsive Design];
+    E --> F[CSS Frameworks: Bootstrap/Tailwind];
+    F --> G[JavaScript Frameworks: React/Vue.js/Angular];
+    G --> H[State Management: Redux/Vuex];
+    H --> I[APIs/GraphQL];
+    I --> J[Testing: Jest/Cypress];
+    J --> K[TypeScript];
+    K --> L[Progressive Web Apps (PWAs)];
+    L --> M[Web Assembly];
+
+
+### Backend Development Roadmap
+
+graph TD;
+    A[Learn a Language: Python/JavaScript/Ruby];
+    A --> B[Understand Databases: SQL/NoSQL];
+    B --> C[Learn about Servers: Nginx/Apache];
+    C --> D[Learn a Backend Framework: Django/Node.js/Ruby on Rails];
+    D --> E[RESTful APIs];
+    E --> F[Authentication & Authorization];
+    F --> G[Testing: Unit & Integration Testing];
+    G --> H[Docker & Containerization];
+    H --> I[Microservices Architecture];
+    I --> J[GraphQL];
+    J --> K[WebSockets];
+    K --> L[Serverless Architecture];
+    L --> M[CI/CD Pipelines];
+
