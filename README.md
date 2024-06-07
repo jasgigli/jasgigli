@@ -1,6 +1,5 @@
 # 👋 Hi, I'm @jasgigli
 
-(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuh_ZXwQB5UVMKo6cXSPKYeTNiV2Yc6Anz-lBZihdTVoutyQy-KDgpGU_y9pr5SRyrq9Q&usqp=CAU)
 
 I'm a software developer and the CEO of JasGiigli, a tech company dedicated to creating innovative solutions that empower businesses and individuals. With a passion for technology and a commitment to excellence, I lead our team in developing cutting-edge software products.
 
