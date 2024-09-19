@@ -1,7 +1,3 @@
-Here's an updated version of your profile that includes a comprehensive list of technologies for Frontend, Backend, Fullstack, and DevOps roles:
-
----
-
 # 👋 Hi, I'm JasGiigli
 
 I'm a software developer and the CEO of JasGiigli, a tech company dedicated to creating innovative solutions that empower businesses and individuals. With a passion for technology and a commitment to excellence, I lead our team in developing cutting-edge software products.
@@ -15,7 +11,6 @@ I'm a software developer and the CEO of JasGiigli, a tech company dedicated to c
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 - ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 - ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white)
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
@@ -26,11 +21,7 @@ I'm a software developer and the CEO of JasGiigli, a tech company dedicated to c
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 - ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-- ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)
-- ![Rails](https://img.shields.io/badge/-Rails-CC0000?logo=ruby-on-rails&logoColor=white)
 - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white)
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
 ### 💻 **Fullstack Development**
 - Combination of Frontend and Backend skills.
