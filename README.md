@@ -1,4 +1,3 @@
-Here's a polished, modern, and sleek version of your GitHub profile readme tailored to your branding and style:
 # 👋 Hi, I’m **Junaid Ali Shah**  
 ### 🚀 **Full-Stack Developer | Innovator | Tech Enthusiast**  
 
