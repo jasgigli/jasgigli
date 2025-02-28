@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **Junaid Ali Shah Gigli**  
-### 🚀 Full-Stack Developer | Modern Web Architect | Tech Innovator  
+### 🚀 Full-Stack Developer | System Design | DSA | Modern Web Architect | Tech Innovator  
 
 **2+ years** of experience building scalable web applications with cutting-edge technologies. I specialize in crafting seamless user experiences powered by robust backend systems.  
 
