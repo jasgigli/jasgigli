@@ -24,16 +24,9 @@ Experience building scalable web applications with cutting-edge technologies. I 
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
 ### **DevOps & Cloud**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
-
-### **Modern Tooling**  
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
 
 ---
 
