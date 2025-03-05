@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Junaid Ali Shah Gigli**  
 ### 🚀 Software Engineer | Full-Stack & Scalable Systems | MERN Stack | System Design & Architecture | DSA & Algorithm Optimization | Founder @ JasGigli
 
-**2+ years** of experience building scalable web applications with cutting-edge technologies. I specialize in crafting seamless user experiences powered by robust backend systems.  
+**Experience building scalable web applications with cutting-edge technologies. I specialize in crafting seamless user experiences powered by robust backend systems.  
 
 ---
 
