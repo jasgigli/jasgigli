@@ -1,7 +1,3 @@
-Below is a **refined, professional portfolio summary** crafted specifically to highlight **FAANG‑level** expertise. It incorporates your existing data while emphasizing **scalability**, **system design**, and **technical leadership**—key qualities that top companies look for. Feel free to customize further with specific achievements, metrics, or personal details that underscore your unique strengths.
-
----
-
 # 👋 Hi, I’m **Junaid Ali Shah Gigli**  
 
 ### 🚀 **Software Engineer** | **Full-Stack & Scalable Systems** | **MERN Stack** | **System Design & Architecture** | **DSA & Algorithm Optimization** | **Founder @ JasGigli**
@@ -30,7 +26,6 @@ I’m a **Full-Stack Software Engineer** with a track record of building **scala
 
 ### **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 
 ---
@@ -82,6 +77,4 @@ I’m actively seeking **challenging opportunities** where I can leverage my exp
 
 **_“I thrive on solving complex problems with innovative solutions—driving impactful results for both users and businesses.”_**
 
----
 
-> **Pro Tip**: Keep your portfolio dynamic by adding **recent achievements**, **new projects**, and **metrics** (like user growth or cost savings). FAANG recruiters love concrete data that shows real impact. Good luck!
