@@ -10,46 +10,37 @@ I’m a **Full-Stack Software Engineer** with a track record of building **scala
 ### **Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white)
-![Gatsby](https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-FF6B00?logo=zustand&logoColor=white) 
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white)
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Koa](https://img.shields.io/badge/-Koa-33333D?logo=koa&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
+![tRPC](https://img.shields.io/badge/-tRPC-2596be?logo=trpc&logoColor=white)  
 
 ### **Mobile & Desktop**
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
-![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white)
 
 ### **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)
 
 ### **Testing & Quality**
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/-Chai-A30701?logo=chai&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
@@ -69,8 +60,15 @@ I’m a **Full-Stack Software Engineer** with a track record of building **scala
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)
+
+
+ 
+
+
+
+---
+
+Would you like me to format this as a React component for easy integration into a portfolio website? 🚀
 
 ---
 
