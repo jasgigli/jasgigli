@@ -5,7 +5,6 @@
 I’m a **Full-Stack Software Engineer** with a track record of building **scalable** and **high-performance** web applications using **cutting-edge technologies**. My expertise spans from crafting **seamless user interfaces** to designing **robust back-end infrastructures**, leveraging modern frameworks and DevOps best practices.
 
 ---
-
 ## 🛠️ **Tech Stack**
 
 ### **Frontend**
@@ -27,6 +26,25 @@ I’m a **Full-Stack Software Engineer** with a track record of building **scala
 ### **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+
+### **Testing & Quality**
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=black)
+
+### **Build & Tooling**
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
+![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white)
+
+### **Deployment & Hosting**
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+
 
 ---
 
