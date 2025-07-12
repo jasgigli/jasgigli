@@ -35,49 +35,49 @@
 <!-- Dynamic Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+
 <!-- Professional Summary Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" height="28"/>
   <b>Professional Summary</b>
 </h2>
 
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <td width="60%" valign="top">
-      <div align="left">
-        <h3>🎯 Senior Full-Stack Engineer</h3>
-        <p>
-          Experienced <b>Full-Stack Software Engineer</b> specializing in <b>scalable web applications</b> and <b>cloud architecture</b>.
-          Proven track record of building systems that serve <b>millions of users</b> while maintaining <b>99.9% uptime</b>.
-          Expert in modern tech stacks with strong focus on <b>performance optimization</b> and <b>system design</b>.
-        </p>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-        <h3>💼 What I Deliver</h3>
-        <ul>
-          <li>🚀 <b>Scalable Solutions:</b> Architecture that grows with your business</li>
-          <li>💡 <b>Innovation:</b> Cutting-edge tech that reduces operational costs by 40%</li>
-          <li>🎯 <b>Performance:</b> Optimized systems with sub-second response times</li>
-          <li>🤝 <b>Leadership:</b> Mentoring teams and driving engineering excellence</li>
-          <li>📈 <b>Results:</b> Features that increase user engagement by 60%</li>
-        </ul>
+### 🎯 Senior Full-Stack Engineer
 
-        <h3>🔥 Current Focus</h3>
-        <p>
-          • Building <b>AI-powered SaaS platforms</b> with React & Node.js<br/>
-          • Exploring <b>WebAssembly</b> and <b>Edge Computing</b><br/>
-          • Contributing to <b>open-source projects</b> with 15K+ stars<br/>
-          • Leading <b>technical workshops</b> and mentoring developers
-        </p>
-      </div>
-    </td>
-    <td width="40%" valign="top">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Animation"/>
-        <br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api?username=jasgigli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&cache_seconds=1800" alt="GitHub Stats" width="100%"/>
-      </div>
-    </td>
-  </tr>
+Experienced **Full-Stack Software Engineer** specializing in **scalable web applications** and **cloud architecture**. Proven track record of building systems that serve **millions of users** while maintaining **99.9% uptime**. Expert in modern tech stacks with strong focus on **performance optimization** and **system design**.
+
+### 💼 What I Deliver
+
+- 🚀 **Scalable Solutions:** Architecture that grows with your business
+- 💡 **Innovation:** Cutting-edge tech that reduces operational costs by 40%
+- 🎯 **Performance:** Optimized systems with sub-second response times
+- 🤝 **Leadership:** Mentoring teams and driving engineering excellence
+- 📈 **Results:** Features that increase user engagement by 60%
+
+### 🔥 Current Focus
+
+• Building **AI-powered SaaS platforms** with React & Node.js
+• Exploring **WebAssembly** and **Edge Computing**
+• Contributing to **open-source projects** with 15K+ stars
+• Leading **technical workshops** and mentoring developers
+
+</td>
+<td width="40%" valign="top">
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Animation"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=jasgigli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&cache_seconds=1800" alt="GitHub Stats" width="100%"/>
+</div>
+
+</td>
+</tr>
 </table>
 
 <!-- Animated Separator -->
