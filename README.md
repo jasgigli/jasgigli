@@ -11,7 +11,7 @@
 <!-- Hero Section with Animated Background -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Junaid%20Ali%20Shah%20Gigli&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20System%20Architect%20%7C%20Innovation%20Leader&descSize=18&descAlignY=55"/>
 
-<!-- Enhanced Professional Typing Animation -->
+<!-- Enhanced Professional Typing Animation 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=🚀+Architecting+Next-Generation+Software+Solutions;💡+Transforming+Complex+Business+Problems+Into+Elegant+Code;🎯+Driving+Innovation+%26+Technical+Excellence+Across+Teams;⚡+Building+Scalable+Systems+That+Serve+Millions;🌟+Ready+to+Lead+Your+Next+Breakthrough+Project;🔥+Full-Stack+Engineer+%7C+System+Architect+%7C+Tech+Leader" alt="Professional Typing Animation"/>
 </div>
@@ -23,12 +23,13 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=800&size=24&duration=4000&pause=2000&color=1F6FEB&center=true&vCenter=true&width=900&height=80&lines=📈+Proven+Track+Record%3A+50K%2B+Users+%7C+99.9%25+Uptime;💰+Business+Impact%3A+40%25+Cost+Reduction+%7C+60%25+Performance+Boost;🏆+Leadership%3A+20%2B+Developers+Mentored+%7C+10%2B+Teams+Led" alt="Achievement Animation"/>
 </div>
+-->
 
-<!-- Multi-Gradient Typing Effects -->
+<!-- Multi-Gradient Typing Effects
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=26&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&height=70&lines=🎯+Your+Next+Senior+Software+Engineer+Awaits;💼+Let's+Build+Something+Extraordinary+Together;🤝+Open+to+Exciting+Opportunities+%26+Collaborations" alt="Call to Action Animation"/>
 </div>
-
+ -->
 <!-- Animated Separator with Gradient -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&customColorList=6,11,20" width="80%"/>
