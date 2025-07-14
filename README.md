@@ -35,6 +35,18 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&customColorList=6,11,20" width="80%"/>
 </div>
 
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=junaid+ali+shah+gigli&oq=junaid+ali+shah+gigli">「 Google Me 」</a>
+    <br>
+    「 I am a Full-Stack developer from <b>Pakistan</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
+
+[![wakatime](https://wakatime.com/badge/user/450a01be-a428-49ea-ba56-bc37994bc881.svg)](https://wakatime.com/@jasgigli)
+
 <!-- Enhanced Social Media Badges -->
 <div style="margin: 25px 0;">
   <a href="https://www.linkedin.com/in/jasgigli/" target="_blank">
@@ -381,6 +393,41 @@ Experienced **Full-Stack Software Engineer** specializing in **scalable web appl
 
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+
+## Top Open Source -
+[![Selenium-Python](https://github-readme-stats.vercel.app/api/pin/?username=mustafahubs&repo=Selenium-Python&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mustafahubs/Selenium-Python)
+[![Social-Downloaders](https://github-readme-stats.vercel.app/api/pin/?username=mustafahubs&repo=Social-Downloaders&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mustafahubs/Social-Downloaders)
+[![Mustafahubs](https://github-readme-stats.vercel.app/api/pin/?username=mustafahubs&repo=Mustafahubs&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mustafahubs/Mustafahubs)
+
+<p align="left">
+  <a href="https://github.com/mustafahubs?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/mustafahubs">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafahubs&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mustafahubs">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafahubs&theme=radical" alt="Mustafa's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/mustafahubs"><img alt="Mustafa's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mustafahubs&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/mustafahubs"><img alt="Mustafa's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mustafahubs&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+[![Mustafa's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mustafahubs&theme=react)](https://github.com/mustafahubs/github-readme-activity-graph)
+
 
 <!-- Enhanced Call to Action -->
 <h2 align="center">
