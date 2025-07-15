@@ -67,8 +67,7 @@ I'm a passionate **Full-Stack Engineer** from Pakistan with a love for building 
 </td>
 <td width="35%" valign="top">
   <div align="center">
-  [![wakatime](https://wakatime.com/badge/user/89de65ec-74d8-4366-8c43-6493aa69991a/project/bc822e03-2713-4c6a-aa72-f13353aa0d94.svg)](https://wakatime.com/badge/user/89de65ec-74d8-4366-8c43-6493aa69991a/project/bc822e03-2713-4c6a-aa72-f13353aa0d94)
-  </div>
+ -------------------------------------
 </td>
 </tr>
 </table>
