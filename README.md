@@ -5,16 +5,15 @@
          Built by an AI assistant to attract top-tier opportunities and demonstrate technical mastery.
 ======================================================================================================================================================
 -->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.9%20million%20lines%20of%20code-blue)
 
 <div align="center">
 
 <!-- Hero Section with Animated Background -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Junaid%20Ali%20Shah%20Gigli&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20System%20Architect%20%7C%20Innovation%20Leader&descSize=18&descAlignY=55"/>
-<!-- Professional Typing Animation 
-<div align="center" style="margin-top: 15px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=🚀+Architecting+High-Performance+Web+Solutions;💡+Transforming+Complex+Problems+Into+Elegant+Code;🦀+Building+with+Rust%2C+TypeScript%2C+and+React;🤝+Open+to+Exciting+Opportunities+%26+Collaborations" alt="Typing Animation"/>
-</div>
--->
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=🚀+Architecting+High-Performance+Web+Solutions;💡+Transforming+Complex+Problems+Into+Elegant+Code;🦀+Building+with+Rust%2C+TypeScript%2C+and+React;🤝+Open+to+Exciting+Opportunities+%26+Collaborations" alt="Typing Animation"/>
+
+
 <p align="center"> 
   <samp>
     <a href="https://www.google.com/search?q=junaid+ali+shah+gigli&oq=junaid+ali+shah+gigli">「 Google Me 」</a>
@@ -66,9 +65,8 @@ I'm a passionate **Full-Stack Engineer** from Pakistan with a love for building 
 
 </td>
 <td width="35%" valign="top">
-  <div align="center">
- -------------------------------------
-</td>
+       <!-- Animated Person Typing -->
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </tr>
 </table>
 
