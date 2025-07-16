@@ -111,8 +111,8 @@ I'm a passionate **Full-Stack Engineer** from Pakistan with a love for building 
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
-        <a href="https://github.com/jasgigli/giglioptix">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=giglioptix&theme=tokyonight&border_color=58A6FF&title_color=58A6FF" alt="GigliOptix Project"/>
+        <a href="https://github.com/jasgigli/gigli">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=gigli&theme=tokyonight&border_color=58A6FF&title_color=58A6FF" alt="Gigli Project"/>
         </a>
       </td>
       <td width="50%" valign="top">
