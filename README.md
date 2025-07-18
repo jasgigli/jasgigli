@@ -100,115 +100,149 @@ I'm a passionate **Full-Stack Engineer** from Pakistan with a love for building 
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!--------------------------------------------------------------- Feature section ------------------------------------------------------------- -->
-
 <!-- Featured Projects Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" height="30"/>
   <b>Featured Projects</b>
 </h2>
 
+<br>
+
+<!-- JavaScript & TypeScript Projects -->
+<h3 align="center">✨ JavaScript & TypeScript Showcase ✨</h3>
 <div align="center" style="margin: auto; width: 100%;">
   <table width="100%">
     <tr>
-      <td width="50%" valign="top">
-        <a href="https://github.com/jasgigli/giglizip">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=giglizip&theme=tokyonight&border_color=58A6FF&title_color=58A6FF" alt="GigliZip Project"/>
-        </a>
-      </td>
-      <td width="50%" valign="top">
-        <a href="https://github.com/jasgigli/gigli">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=gigli&theme=tokyonight&border_color=3FB950&title_color=3FB950" alt="Gigli Project"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <a href="https://github.com/jasgigli/review-mesh">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=review-mesh&theme=tokyonight&border_color=A371F7&title_color=A371F7" alt="Review-Mesh Project"/>
-        </a>
-      </td>
-      <td width="50%" valign="top">
-        <a href="https://github.com/jasgigli/gigli.js">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=gigli.js&theme=tokyonight&border_color=F78166&title_color=F78166" alt="gigli.js Project"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <a href="https://github.com/jasgigli/build-your-own-redis">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=build-your-own-redis&theme=tokyonight&border_color=DBAB0A&title_color=DBAB0A" alt="Build Your Own Redis Project"/>
-        </a>
-      </td>
-      <td width="50%" valign="top">
+      <td width="33.3%" valign="top">
         <a href="https://github.com/jasgigli/converse-easy">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=converse-easy&theme=tokyonight&border_color=FF6B6B&title_color=FF6B6B" alt="Converse-Easy Project"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=converse-easy&theme=tokyonight&border_color=A371F7&title_color=A371F7" alt="Converse-Easy Project"/>
         </a>
+        <div align="center" style="margin-top: 5px;">
+          <img src="https://img.shields.io/badge/Tech-Stack-A371F7?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/tRPC-3975A8?style=for-the-badge&logo=trpc&logoColor=white"/>
+        </div>
       </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
+      <td width="33.3%" valign="top">
+        <a href="https://github.com/jasgigli/review-mesh">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=review-mesh&theme=tokyonight&border_color=3FB950&title_color=3FB950" alt="Review-Mesh Project"/>
+        </a>
+        <div align="center" style="margin-top: 5px;">
+          <img src="https://img.shields.io/badge/Tech-Stack-3FB950?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+        </div>
+      </td>
+      <td width="33.3%" valign="top">
         <a href="https://github.com/jasgigli/restaurant-management-system">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=restaurant-management-system&theme=tokyonight&border_color=1ABC9C&title_color=1ABC9C" alt="Restaurant Management System Project"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=restaurant-management-system&theme=tokyonight&border_color=F78166&title_color=F78166" alt="Restaurant Management System"/>
         </a>
+        <div align="center" style="margin-top: 5px;">
+          <img src="https://img.shields.io/badge/Tech-Stack-F78166?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+        </div>
       </td>
-      <td width="50%" valign="top">
+    </tr>
+    <tr>
+      <td width="33.3%" valign="top">
         <a href="https://github.com/jasgigli/fastframe.js">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=fastframe.js&theme=tokyonight&border_color=9B59B6&title_color=9B59B6" alt="FastFrame.js Project"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=fastframe.js&theme=tokyonight&border_color=DBAB0A&title_color=DBAB0A" alt="FastFrame.js Project"/>
         </a>
+        <div align="center" style="margin-top: 5px;">
+          <img src="https://img.shields.io/badge/Tech-Stack-DBAB0A?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+        </div>
       </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
+      <td width="33.3%" valign="top">
+        <a href="https://github.com/jasgigli/build-your-own-redis">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=build-your-own-redis&theme=tokyonight&border_color=FF6B6B&title_color=FF6B6B" alt="Build Your Own Redis Project"/>
+        </a>
+        <div align="center" style="margin-top: 5px;">
+          <img src="https://img.shields.io/badge/Tech-Stack-FF6B6B?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+        </div>
+      </td>
+      <td width="33.3%" valign="top">
         <a href="https://github.com/jasgigli/nlp-analyzer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=nlp-analyzer&theme=tokyonight&border_color=3498DB&title_color=3498DB" alt="NLP Analyzer Project"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=nlp-analyzer&theme=tokyonight&border_color=1ABC9C&title_color=1ABC9C" alt="NLP Analyzer Project"/>
         </a>
-      </td>
-      <td width="50%" valign="top">
-        <a href="https://github.com/jasgigli/pos">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=pos&theme=tokyonight&border_color=E67E22&title_color=E67E22" alt="POS Project"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <a href="https://github.com/jasgigli/dev-curse">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=dev-curse&theme=tokyonight&border_color=2ECC71&title_color=2ECC71" alt="Dev-Curse Project"/>
-        </a>
-      </td>
-      <td width="50%" valign="top">
-        <a href="https://github.com/jasgigli/deep-gigli">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=deep-gigli&theme=tokyonight&border_color=E74C3C&title_color=E74C3C" alt="Deep-Gigli Project"/>
-        </a>
+        <div align="center" style="margin-top: 5px;">
+          <img src="https://img.shields.io/badge/Tech-Stack-1ABC9C?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+        </div>
       </td>
     </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <a href="https://github.com/jasgigli/gigli-film">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=gigli-film&theme=tokyonight&border_color=F1C40F&title_color=F1C40F" alt="Gigli-Film Project"/>
+     <tr>
+      <td width="33.3%" valign="top">
+        <a href="https://github.com/jasgigli/gigli.js">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=gigli.js&theme=tokyonight&border_color=9B59B6&title_color=9B59B6" alt="gigli.js Project"/>
         </a>
+        <div align="center" style="margin-top: 5px;">
+          <img src="https://img.shields.io/badge/Tech-Stack-9B59B6?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        </div>
       </td>
-      <td width="50%" valign="top">
+      <td width="33.3%" valign="top">
         <a href="https://github.com/jasgigli/gigli-nike">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=gigli-nike&theme=tokyonight&border_color=4A90E2&title_color=4A90E2" alt="Gigli-Nike Project"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=gigli-nike&theme=tokyonight&border_color=3498DB&title_color=3498DB" alt="Gigli-Nike Project"/>
         </a>
+        <div align="center" style="margin-top: 5px;">
+          <img src="https://img.shields.io/badge/Tech-Stack-3498DB?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+        </div>
       </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <a href="https://github.com/jasgigli/weather-gig">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=weather-gig&theme=tokyonight&border_color=7ED321&title_color=7ED321" alt="Weather-Gig Project"/>
+       <td width="33.3%" valign="top">
+        <a href="https://github.com/jasgigli/pos">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=pos&theme=tokyonight&border_color=E74C3C&title_color=E74C3C" alt="POS Project"/>
         </a>
-      </td>
-      <td width="50%" valign="top">
-        <a href="https://github.com/jasgigli/roadgiigli">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=roadgiigli&theme=tokyonight&border_color=BD10E0&title_color=BD10E0" alt="RoadGiigli Project"/>
-        </a>
+        <div align="center" style="margin-top: 5px;">
+          <img src="https://img.shields.io/badge/Tech-Stack-E74C3C?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+        </div>
       </td>
     </tr>
   </table>
 </div>
 
+<hr>
+
+<!-- Rust Projects -->
+<h3 align="center">🦀 Rust Creations 🦀</h3>
+<div align="center" style="margin: auto; width: 100%;">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/jasgigli/gigli">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=gigli&theme=tokyonight&border_color=DEA584&title_color=DEA584" alt="Gigli Project"/>
+        </a>
+        <div align="center" style="margin-top: 5px;">
+          <img src="https://img.shields.io/badge/Tech-Stack-DEA584?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/jasgigli/giglizip">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=giglizip&theme=tokyonight&border_color=58A6FF&title_color=58A6FF" alt="GigliZip Project"/>
+        </a>
+        <div align="center" style="margin-top: 5px;">
+          <img src="https://img.shields.io/badge/Tech-Stack-58A6FF?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
