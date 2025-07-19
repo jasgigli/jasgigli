@@ -123,10 +123,10 @@ I'm a passionate **Full-Stack Engineer** from Pakistan with a love for building 
           <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
           <img src="https://img.shields.io/badge/tRPC-3975A8?style=for-the-badge&logo=trpc&logoColor=white"/>
         </div>
-      </td>
+      </td>     
       <td width="33.3%" valign="top">
-        <a href="https://github.com/jasgigli/review-mesh">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=review-mesh&theme=tokyonight&border_color=3FB950&title_color=3FB950" alt="Review-Mesh Project"/>
+        <a href="https://github.com/jasgigli/CodeAlpha_GigliStore">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=CodeAlpha_GigliStore&theme=tokyonight&border_color=3FB950&title_color=3FB950" alt="CodeAlpha_GigliStore Project"/>
         </a>
         <div align="center" style="margin-top: 5px;">
           <img src="https://img.shields.io/badge/Tech-Stack-3FB950?style=for-the-badge"/>
@@ -241,6 +241,19 @@ I'm a passionate **Full-Stack Engineer** from Pakistan with a love for building 
         </div>
       </td>
     </tr>
+           <tr>
+                     <td width="33.3%" valign="top">
+        <a href="https://github.com/jasgigli/review-mesh">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasgigli&repo=review-mesh&theme=tokyonight&border_color=3FB950&title_color=3FB950" alt="Review-Mesh Project"/>
+        </a>
+        <div align="center" style="margin-top: 5px;">
+          <img src="https://img.shields.io/badge/Tech-Stack-3FB950?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+        </div>
+      </td>
+           </tr>
   </table>
 </div>
 <!-- Animated Separator -->
