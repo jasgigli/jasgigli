@@ -1,16 +1,11 @@
-<!--
-======================================================================================================================================================
-         🚀 WORLD-CLASS GITHUB PROFILE - RE-ENGINEERED FOR IMPACT
-         This profile showcases Junaid's cutting-edge skills, featured projects, and professional excellence.
-         Built by an AI assistant to attract top-tier opportunities and demonstrate technical mastery.
-======================================================================================================================================================
--->
-
 
 <div align="center">
 
 <!-- Hero Section with Animated Background -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Junaid%20Ali%20Shah%20Gigli&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20System%20Architect%20%7C%20Innovation%20Leader&descSize=18&descAlignY=55"/>
+
+<a href="https://wakatime.com/@89de65ec-74d8-4366-8c43-6493aa69991a"><img src="https://wakatime.com/badge/user/89de65ec-74d8-4366-8c43-6493aa69991a.svg" alt="Total time coded since Jul 12 2025" /></a>
+
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=🚀+Architecting+High-Performance+Web+Solutions;💡+Transforming+Complex+Problems+Into+Elegant+Code;🦀+Building+with+TypeScript/JavaScript%2C+TypeScript%2C+and+React;🤝+Open+to+Exciting+Opportunities+%26+Collaborations" alt="Typing Animation"/>
 <p align="center"> 
   <samp>
